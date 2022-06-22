@@ -7,11 +7,13 @@ A program that contains Book that has:
  - rating
  - array of pages
  - comments of users
+ 
 The program also contains User that has:
  - username
  - password
  - read books
  - written books
+ 
  A user can write, read, comment and rate a book. He can also access a certain page, change a book he has written, leave a comment and change his rating
  The program also has Kindle that has:
   - array of users
